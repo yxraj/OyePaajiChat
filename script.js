@@ -1,4 +1,4 @@
-const GROQ_API_KEY = "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";
+const GROQ_API_KEY = "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";
 const MODEL = "llama-3.3-70b-versatile";
 const SYSTEM_PROMPT = `You are OyePaajiChat, a friendly and helpful AI assistant created by Raju Mistri.
 
